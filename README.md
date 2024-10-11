@@ -1,0 +1,2 @@
+# Social Media Web App
+#### A social media app from a university project built in MERN ( Node js, Express js, React Js, MongoDB), you can post images and texts like twitter , and also text people and create groupchats in which you can send messages and files, this repo has the backend for the whole app and the frontend for the emssaging part, the UI is from [this repo](https://github.com/codingmonk-yt/chat-app-latest) but the redux part was missing so i had to code it myself
